@@ -17,8 +17,6 @@
 1. calculating **Z-Score**
 2. calculating **Inter Quartile Range (IQR)**
 
-![151669323-f35fe4f4-57cc-4c6c-9e5a-a86f71d24aca](https://user-images.githubusercontent.com/60286504/151669660-bfb7bbdb-2857-4cb8-b80d-8200de3c3982.png)
-
 
 
 ## Z-score
