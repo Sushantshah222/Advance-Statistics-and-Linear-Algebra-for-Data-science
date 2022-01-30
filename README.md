@@ -1,7 +1,7 @@
 # Advance Statistics for Data Science using Python
 
 ![img_normal_distribution-svg](https://user-images.githubusercontent.com/60286504/151669323-f35fe4f4-57cc-4c6c-9e5a-a86f71d24aca.png)
-
+(image source: W3 School point)
 
 ### **Emperical Formula** 68% - 95% - 99.7% Rule
 
