@@ -1,4 +1,4 @@
-# Advance Statistics for Data Science using Python
+# Advance Statistics and Linear Algebra for Data Science
 
 ![img_normal_distribution-svg](https://user-images.githubusercontent.com/60286504/151669323-f35fe4f4-57cc-4c6c-9e5a-a86f71d24aca.png)
 (image source: W3 School point)
